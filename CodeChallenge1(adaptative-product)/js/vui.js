@@ -3,8 +3,8 @@ const app = Vue.createApp({
         return{
             NombrePro:'AsusRog',
             cantidadPro:10,
-            DescripciónPropt1:'El dia de hoy te presentamos el innovador producto llamado:'
-
+            DescripcionPropt1:'El dia de hoy te presentamos el innovador producto llamado:',
+            DescripcionPropt2:'nuestro mejor producto en stock llevate ya el tuyo'
         }
     }
 }) 
